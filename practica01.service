@@ -1,0 +1,13 @@
+[Unit]
+Description=PAC1
+
+[Service]
+Type=oneshot
+User=alumnat
+WorkingDirectory=/home/alumnat/Escriptori/2NDAM/ProgramacióDeProcessos/ProgramacioProcessos_pt1
+ExecStart=/home/alumnat/.jdks/openjdk-25.0.2/bin/java -jar /home/alumnat/Escriptori/2NDAM/ProgramacióDeProcessos/ProgramacioProcessos_pt1/supervisor.jar
+TimeoutStartSec=90s
+TimeoutStopSec=5s
+KillMode=control-group
+StandardOutput=journal
+StandardError=journal

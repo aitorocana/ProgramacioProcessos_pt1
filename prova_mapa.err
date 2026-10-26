@@ -1,0 +1,4 @@
+[SUPERVISOR pid=23246 ppid=12746 thread=main] inici
+[SUPERVISOR pid=23246 ppid=12746 thread=main] cancel·lació: timeout de WORKER-LENT
+[SUPERVISOR pid=23246 ppid=12746 thread=main] ordre inexistent: Cannot run program "/ruta/inexistent/executable": Exec failed, error: 2 (El fitxer o directori no existeix) 
+[SUPERVISOR pid=23246 ppid=12746 thread=main] final

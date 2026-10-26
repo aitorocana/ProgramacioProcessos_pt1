@@ -1,0 +1,62 @@
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23278   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos echo
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:00 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23312   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ALPHA
+  23314   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker BETA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:01 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23378   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker GAMMA
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23424   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker LENT --sleep 2000
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23424   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker LENT --sleep 2000
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23424   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker LENT --sleep 2000
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23424   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker LENT --sleep 2000
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23462   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos consumer
+  23463   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos producer
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:02 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:03 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:03 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:03 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:03 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
+  23246   12746 Sl         00:03 java -cp target/classes CreacioProcessos
+  23511   23246 Sl         00:00 /home/alumnat/.jdks/openjdk-25.0.2/bin/java -cp target/classes CreacioProcessos worker ERROR --exit-code 7
